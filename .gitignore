@@ -1,0 +1,3 @@
+!apps/
+!apps/*.zip
+node_modules/
