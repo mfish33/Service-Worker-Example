@@ -16,7 +16,7 @@
     "webpack": "^2.5.1"
   },
   "dependencies": {
-    "jszip": "^3.4.0",
+    "jszip": "^3.7.0",
     "mime": "^2.4.6",
     "promise-worker": "^2.0.1"
   }
